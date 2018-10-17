@@ -7,6 +7,7 @@ name = "pypi"
 tweepy = "*"
 textblob = "*"
 numpy = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
